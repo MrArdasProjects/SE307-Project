@@ -1,0 +1,15 @@
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\SE307-Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\SE307-Project.AssemblyInfoInputs.cache
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\SE307-Project.AssemblyInfo.cs
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\SE307-Project.csproj.CoreCompileInputs.cache
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\SE307-Project.sourcelink.json
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\bin\Debug\net8.0\SE307-Project.exe
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\bin\Debug\net8.0\SE307-Project.deps.json
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\bin\Debug\net8.0\SE307-Project.runtimeconfig.json
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\bin\Debug\net8.0\SE307-Project.dll
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\bin\Debug\net8.0\SE307-Project.pdb
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\SE307-Project.dll
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\refint\SE307-Project.dll
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\SE307-Project.pdb
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\SE307-Project.genruntimeconfig.cache
+C:\Users\mhmet\OneDrive\Masaüstü\Git Project\SE307-Project\obj\Debug\net8.0\ref\SE307-Project.dll
