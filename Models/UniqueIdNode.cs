@@ -1,4 +1,4 @@
-namespace SE307_Project.Models
+namespace SE307_Project
 {
     public class UniqueIdNode
     {
