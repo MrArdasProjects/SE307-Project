@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Collections.Specialized.BitVector32;
 
-namespace SE307_Project.Models
+namespace SE307_Project
 {
     public class Event
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SE307_Project.Models
+namespace SE307_Project
 {
     public class ExecutableJob : UniqueIdNode
     {
