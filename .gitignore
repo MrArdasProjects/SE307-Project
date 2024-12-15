@@ -1,0 +1,143 @@
+# General system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+[Ww]eb[Pp]ublish/
+out/
+artifacts/
+
+# Common IDE and editor files
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.vcxproj.filters
+*.ncrunch*
+*.orig
+
+# Visual Studio Code
+.vscode/
+
+# Rider (JetBrains)
+.idea/
+*.sln.iml
+*.dotCover
+*.sln.ide.*
+
+# MonoDevelop
+*.pidb
+*.userprefs
+
+# Xamarin
+*.vspscc
+*.vssscc
+*.csproj.user
+*.csproj.nuget.cache
+*.csproj.nuget.dgspec.json
+*.csproj.nuget.g.props
+*.csproj.nuget.g.targets
+
+# Package management
+*.nupkg
+*.snupkg
+*.nuspec
+*.lock.json
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nuget/packages/
+.nuget/
+
+# Node.js (if used in an ASP.NET project)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs and system files
+*.log
+*.tlog
+*.pgm
+*.ilk
+*.idb
+*.pdb
+*.opendb
+
+# Secrets and sensitive information
+secrets.json
+*.key
+
+# Environment files
+.env
+.env.*
+
+# Docker
+docker-compose.override.yml
+.docker/
+Dockerfile
+
+# Application dependencies
+packages/
+*.localhistory/
+
+# Database and migration files
+*.mdf
+*.ldf
+*.sqlite
+*.sqlite3
+*.bak
+
+# Temporary files
+*.tmp
+*.temp
+*.tmp.*
+
+# Test results
+TestResults/
+.trx
+*.coverage
+*.coveragexml
+*.logtest
+*.testlog
+
+# Common file types
+*.class
+*.pyc
+*.pyo
+*.min.*
+*.map
+*.bak
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Web projects
+wwwroot/
+dist/
+lib/
+*.publishsettings
+web.config.transform
+appsettings*.json
+
+# Others
+Resharper*/ 
+*.resharperuser
+_ReSharper.Caches/
